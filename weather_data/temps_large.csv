@@ -1,0 +1,55 @@
+city,date,temperature
+New York,2025-11-01,13
+Boston,2025-11-01,9
+Chicago,2025-11-01,6
+Denver,2025-11-01,12
+San Francisco,2025-11-01,18
+Seattle,2025-11-01,11
+New York,2025-11-02,15
+Boston,2025-11-02,10
+Chicago,2025-11-02,5
+Denver,2025-11-02,13
+San Francisco,2025-11-02,17
+Seattle,2025-11-02,10
+New York,2025-11-03,14
+Boston,2025-11-03,11
+Chicago,2025-11-03,7
+Denver,2025-11-03,14
+San Francisco,2025-11-03,18
+Seattle,2025-11-03,12
+New York,2025-11-04,13
+Boston,2025-11-04,10
+Chicago,2025-11-04,6
+Denver,2025-11-04,12
+San Francisco,2025-11-04,19
+Seattle,2025-11-04,11
+New York,2025-11-05,16
+Boston,2025-11-05,12
+Chicago,2025-11-05,8
+Denver,2025-11-05,13
+San Francisco,2025-11-05,18
+Seattle,2025-11-05,12
+New York,2025-11-06,15
+Boston,2025-11-06,11
+Chicago,2025-11-06,7
+Denver,2025-11-06,14
+San Francisco,2025-11-06,17
+Seattle,2025-11-06,13
+New York,2025-11-07,14
+Boston,2025-11-07,10
+Chicago,2025-11-07,6
+Denver,2025-11-07,12
+San Francisco,2025-11-07,18
+Seattle,2025-11-07,11
+New York,2025-11-08,13
+Boston,2025-11-08,9
+Chicago,2025-11-08,5
+Denver,2025-11-08,13
+San Francisco,2025-11-08,17
+Seattle,2025-11-08,12
+New York,2025-11-09,15
+Boston,2025-11-09,11
+Chicago,2025-11-09,7
+Denver,2025-11-09,14
+San Francisco,2025-11-09,18
+Seattle,2025-11-09,13
